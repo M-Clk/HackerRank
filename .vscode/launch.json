@@ -1,0 +1,57 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET Core Launch (MiniMaxSum-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildmms",
+            "program": "${workspaceFolder}/MiniMaxSum/bin/Debug/net7.0/MiniMaxSum.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MiniMaxSum",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (CompareTriplets-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildct",
+            "program": "${workspaceFolder}/CompareTriplets/bin/Debug/net7.0/CompareTriplets.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/CompareTriplets",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (AVeryBigSum-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildavbs",
+            "program": "${workspaceFolder}/AVeryBigSum/bin/Debug/net7.0/AVeryBigSum.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/AVeryBigSum",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Launch (DiagonalDifference-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "builddd",
+            "program": "${workspaceFolder}/DiagonalDifference/bin/Debug/net7.0/DiagonalDifference.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/DiagonalDifference",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
+            "name": ".NET Core Attach",
+            "type": "coreclr",
+            "request": "attach"
+        }
+    ]
+}

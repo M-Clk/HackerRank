@@ -1,0 +1,15 @@
+D:\HackerRank\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.exe
+D:\HackerRank\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.deps.json
+D:\HackerRank\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.runtimeconfig.json
+D:\HackerRank\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.dll
+D:\HackerRank\MiniMaxSum\bin\Debug\net7.0\MiniMaxSum.pdb
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.AssemblyReference.cache
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.GeneratedMSBuildEditorConfig.editorconfig
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfoInputs.cache
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.AssemblyInfo.cs
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.csproj.CoreCompileInputs.cache
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.dll
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\refint\MiniMaxSum.dll
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.pdb
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\MiniMaxSum.genruntimeconfig.cache
+D:\HackerRank\MiniMaxSum\obj\Debug\net7.0\ref\MiniMaxSum.dll
