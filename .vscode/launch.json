@@ -49,6 +49,17 @@
             "stopAtEntry": false
         },
         {
+            "name": ".NET Core Launch (GradingStudents-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildgs",
+            "program": "${workspaceFolder}/GradingStudents/bin/Debug/net7.0/GradingStudents.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/GradingStudents",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
