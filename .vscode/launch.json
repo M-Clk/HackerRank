@@ -60,6 +60,17 @@
             "stopAtEntry": false
         },
         {
+            "name": ".NET Core Launch (NumberLineJumps-Console)",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "buildnlj",
+            "program": "${workspaceFolder}/NumberLineJumps/bin/Debug/net7.0/NumberLineJumps.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/NumberLineJumps",
+            "console": "externalTerminal",
+            "stopAtEntry": false
+        },
+        {
             "name": ".NET Core Attach",
             "type": "coreclr",
             "request": "attach"
